@@ -1,0 +1,6 @@
+1 :
+    rajouter la gestion des salles dans l'API
+    niveau, capacité, equipement, etage
+2:
+    faire une api pour gérer un parc d'équipement informatique 
+    (ip, nom, description)
